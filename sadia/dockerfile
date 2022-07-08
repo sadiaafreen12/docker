@@ -1,0 +1,4 @@
+# this example will be with FROM and LABEL
+FROM scratch
+LABEL author=sadia
+LABEL month=june
